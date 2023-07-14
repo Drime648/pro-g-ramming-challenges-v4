@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/dhruv/coding/pro-g-ramming-challenges-v4/practical/Markov-Chain-Sequence-Generator -B /Users/dhruv/coding/pro-g-ramming-challenges-v4/practical/Markov-Chain-Sequence-Generator/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dhruv/coding/pro-g-ramming-challenges-v4/practical/Markov-Chain-Sequence-Generator/cmake-build-debug
