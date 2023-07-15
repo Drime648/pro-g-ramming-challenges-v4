@@ -25,7 +25,6 @@ MarkovModel::MarkovModel(string& text, int k) {
         ++frequencyTable[kgram];
         //now update the nextCharTable
         ++nextCharTable[kgram][nextChar];
-
         j += k;
     }
     //calculate all values for nextCharProbTable

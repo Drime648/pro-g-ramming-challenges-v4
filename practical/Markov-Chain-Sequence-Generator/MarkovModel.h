@@ -32,6 +32,7 @@ private:
     map <string, int> frequencyTable;
     map <string, map<char, int>> nextCharTable;
     map <string, map<char, float>> nextCharProbTable;
+//    map<string, tuple<char, int, float>> nextCharMap;
 
     string fullText;
 public:
